@@ -21,9 +21,9 @@
 ## 🧠 My Focus Areas
 -	MLOps & Deployment (MLflow, Docker, CI/CD, Streamlit/FastAPI)
 -	NLP & LLM Evaluation (text validation, classification)
-•	Time-Series Forecasting (demand prediction)
-•	Data Engineering (AWS, Snowflake, SQL, ETL/ELT, warehousing)
-•	Analytics & BI (Power BI/Tableau, KPI design, drill-down analysis)
+-	Time-Series Forecasting (demand prediction)
+-	Data Engineering (AWS, Snowflake, SQL, ETL/ELT, warehousing)
+-	Analytics & BI (Power BI/Tableau, KPI design, drill-down analysis)
 
 
 ## 📊 GitHub Stats & Trophies
